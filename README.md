@@ -39,3 +39,9 @@ At this stage it is also possible to select additional masters and add an author
 - Restore all button - Restore the properties of all references (position/rotation/base object/etc) based on the profile. Any objects that do not exist and is within a distance of 4096 will be created automatically	
 - Update all button - Update the profile with the current in-game properties of all references
 - Tint all references button - Adds a colour filter over all the references in the profile
+
+## Plugin
+Diorama.dll - https://github.com/Quan-Tiger/Diorama
+
+## TODO
+- Release ready UI
