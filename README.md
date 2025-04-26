@@ -1,6 +1,6 @@
 # ﻿Diorama - Plugin Creation Engine
 
-Use an in-game GUI and the Engine to create Skyrim ESPs and BOS INIs without the Creation Kit. Add new objects or update an existing objects position, rotation, base object, etc while in game and let Diorama work its magic.
+Use an in-game GUI and the Engine to create Skyrim ESPs and BOS INIs without the Creation Kit. Add new objects or update an existing objects position, rotation, base object, etc while in game using the SKSE plugin and create mods using the Diorama executable.
 
 ## Installation
 Install via a mod manager. Add the DioramaEngine.exe as an executable
